@@ -162,8 +162,8 @@ across nodes observing different particles; attestation binds requests to
 
 v0.1, draft. One detector, one operator, one attestation per certificate.
 Changes to this proposal are versioned in the public repository; releases
-are archived with a DOI. Implementations should treat all fields not
-defined here as reserved.
+are archived with a DOI. This version: https://doi.org/10.5281/zenodo.21901354
+Implementations should treat all fields not defined here as reserved.
 
 ---
 
