@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "The costheta Federation Protocol: an open proposal"
+message: "If you reference this protocol, please cite it as below."
+type: software
+authors:
+  - given-names: Andrei
+    family-names: Nemirschi
+    city: Constanța
+    country: RO
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21901353
+    description: All versions
+  - type: doi
+    value: 10.5281/zenodo.21919397
+    description: Version 0.2
+repository-code: "https://github.com/costhetadev/federation-proposal"
+url: "https://costheta.dev/federation"
+license: CC-BY-4.0
+version: "0.2"
+date-released: 2026-08-13
+keywords:
+  - randomness
+  - cosmic rays
+  - verifiable computation
+  - AI agents
