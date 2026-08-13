@@ -132,7 +132,7 @@ Throughput is bounded by physics (about one usable event per several seconds per
 
 ## 10. Status and versioning
 
-v0.2, draft. One detector, one operator, one attestation per certificate. Changes from v0.1: added §5 (derivation and bias), with rejection sampling and domain separation now normative; rewrote §7 with combined derivation over the quorum, two-phase commitment between nodes, and timeout parameters; declared the settlement dependency in §9. OQ-1 and OQ-4 are resolved and folded into §7. Changes to this proposal are versioned in the public repository; releases are archived with a DOI. Implementations should treat all fields not defined here as reserved.
+v0.2, draft. One detector, one operator, one attestation per certificate. Changes from v0.1: added §5 (derivation and bias), with rejection sampling and domain separation now normative; rewrote §7 with combined derivation over the quorum, two-phase commitment between nodes, and timeout parameters; declared the settlement dependency in §9. OQ-1 and OQ-4 are resolved and folded into §7. Changes to this proposal are versioned in the public repository; releases are archived with a DOI. This version: https://doi.org/10.5281/zenodo.21919397 · All versions: https://doi.org/10.5281/zenodo.21901353 · Repository: https://github.com/costhetadev/federation-proposal · Implementations should treat all fields not defined here as reserved.
 
 ---
 
