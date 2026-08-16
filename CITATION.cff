@@ -12,13 +12,13 @@ identifiers:
     value: 10.5281/zenodo.21901353
     description: All versions
   - type: doi
-    value: 10.5281/zenodo.21919397
-    description: Version 0.2
+    value: 10.5281/zenodo.21965029
+    description: Version 0.3
 repository-code: "https://github.com/costhetadev/federation-proposal"
 url: "https://costheta.dev/federation"
 license: CC-BY-4.0
-version: "0.2"
-date-released: 2026-08-13
+version: "0.3"
+date-released: 2026-08-16
 keywords:
   - randomness
   - cosmic rays
